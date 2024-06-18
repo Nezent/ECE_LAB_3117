@@ -29,9 +29,7 @@
 **Department of Electrical & Computer Engineering (ECE)**  
 **Rajshahi University of Engineering & Technology (RUET)**
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
+
 
 
 <!-- Main Content -->
@@ -68,9 +66,7 @@
     - [git config](#git-config)
 
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
+
 
 ## Introduction to Git
 
